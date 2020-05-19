@@ -1,0 +1,25 @@
+[info]
+origen = terrenogen.png
+mapa = ...........
+      ...........
+      ..#..$.....
+      ..##.......
+      ......#....
+
+[.]
+tipo = cesped
+ux = 17
+uy = 0
+solido = 0
+
+[#]
+tipo = muro
+ux = 22
+uy = 3
+solido = 1
+
+[$]
+tipo = agua
+ux = 13
+uy = 3
+solido = 0
